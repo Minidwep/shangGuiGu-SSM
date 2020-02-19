@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jsp-api">
+    <CLASSES>
+      <root url="jar://C:/xampp/tomcat/lib/jsp-api.jar!/" />
+      <root url="jar://C:/xampp/tomcat/lib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
